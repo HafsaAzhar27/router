@@ -16,7 +16,7 @@ const Page = () => {
           <blockquote>
             <p className="text-lg font-medium">
             House No. 12, Street 5
-        Gulshan-e-Iqbal, Karachi
+        Gulshan-e-Iqbal, Ryk
         Pakistan
             </p>
           </blockquote>
@@ -25,7 +25,7 @@ const Page = () => {
               Hafsa azhar
             </div>
             <div className="text-slate-700 dark:text-slate-500">
-              Student, ryk
+              Student, Ryk
             </div>
           </figcaption>
         </div>

@@ -15,8 +15,8 @@ const Page = () => {
         <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
           <blockquote>
             <p className="text-lg font-medium">
-            Home is where the heart finds its true rythym,a heaven where the soul can unwind.We find comfort and belonging,
-             a sanctuary where the everyday magic of life unholds.It is more than just walls and roofs,it is the heart of our everyday lives.
+            My home is surrounded by a comforting environment that adds to its charm.
+           The streets are lined with beautiful trees and flowers, creating a serene and inviting atmosphere. There is a nearby park with well-maintained paths where I can take leisurely strolls or simply enjoy the fresh air. 
             </p>
           </blockquote>
           <figcaption className="font-medium">

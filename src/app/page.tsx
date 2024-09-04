@@ -21,10 +21,10 @@ const Page = () => {
           </blockquote>
           <figcaption className="font-medium">
             <div className="text-sky-500 dark:text-sky-400">
-              hafsa azhar
+              Hafsa Azhar
             </div>
             <div className="text-slate-700 dark:text-slate-500">
-              student, ryk
+              student, Ryk
             </div>
           </figcaption>
         </div>
